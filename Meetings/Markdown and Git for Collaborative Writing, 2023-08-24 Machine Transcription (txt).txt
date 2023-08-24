@@ -1,0 +1,949 @@
+Howdy, this is Markdown plus Git for collaborative writing on August 24th, 2023.
+There's a HackMD, I think maybe you can see the HackMD link in the chat.
+You've probably also got it in email.
+The YouTube link in chat is to the last session.
+And we're kind of scheduled for an hour today to the top of the hour.
+And so depending on how many people show up, we might actually get more done, I guess.
+But the main thing is to figure out who's going to keep meeting, like, and what are
+those meetings going to be like?
+And why we would be meeting.
+So I think the best reason to keep meeting is either to be learning Git and Markdown
+or maybe even better to be learning Git and Markdown on a collaborative project.
+Maybe a little toy project to start off with, one that we can work on without stressing
+too much about what the content is and then end up with something that we might be able
+to turn it into something useful.
+We might kind of just put it on the shelf and go, "Okay, that was a lot of fun."
+Another good outcome after that practice of doing something together would be to kind
+of review recap after action review where we got to.
+Howdy, Kiel, is that how am I gonna unmute? Hi, it's Kyle. Good morning. Hi Kyle, good
+morning. Hi Kyle. Good morning. So just to recap real quick, I would be happy if we
+got out of this call, kind of knowing who's going to continue doing this call and why
+and how, basically. So maybe we should go around and talk about what we would like to
+get out of this exercise, these exercises. Ray, I'm going to pick on you and have you
+go first if that's okay, because you kind of kicked this off, and I know that you've
+got stuff that you want to get done and maybe get in Markdown as a tool to do it.
+Yes. So thank you. So what interested me in this is the collaborative aspect of it, which
+comes in, I guess, two versions. One is that it's a good way to share thoughts that I have
+for the beginnings of a white paper that some people have read it and decided that it was
+really dense and difficult and they had to read it a few times to understand.
+So I want people to actually help write it, to give people to better understand it and
+also have contributors to shape the ideas and improve it.
+related to this same project, it's going to make sense to put together a deck.
+And I, although you've cautioned against this, what I really would like to do is see people
+collaborate with trying to do the skeleton of a deck in Markdown as well before moving
+into some sort of final format for the output
+to actually be able to deliver a presentation.
+I have a third motivation beyond that,
+which is that although in the past I've written code,
+it stopped quite a while ago.
+And so I've never worked with Git at all.
+It just wasn't part of my experience.
+And so for me to understand the workflows
+would remove another thing from me being able to jump in
+and actually contribute to code
+because I would know that practice.
+Think you're muted.
+- Yes, I am.
+Thanks, Ray.
+I am going to share my screen and let's say I'm recording already.
+It's recording in this tab.
+I'm going to share my screen on the markdown thing and then in my Jitsi tab I've got to
+to make sure to select the screen share.
+Otherwise, it won't record very well.
+I'm not convinced this is recording well,
+but it's a little better than nothing.
+OK, I think it's kind of set.
+Thanks for bearing with me in Jitsi
+and recording and screen sharing.
+So line 19, in a more perfect world,
+we would have kind of collectively grabbed Ray's nicely
+set up points there.
+Let's go back and do it together.
+So Ray wants to expand from single-player writing
+to multiplayer.
+Ray and I guess everybody, one of the ways that we say collaborative writing is to call
+it multiplayer.
+And part of the reason is to express ideas better for a wider audience.
+And then another thing, I feel like there was, Rafe, if you could help me a little bit,
+The next thing was working on a particular project.
+Was that it?
+- Yes, but even before that,
+to express the ideas better,
+I would say to possibly to add ideas from others.
+- I'm gonna say more people instead of others,
+if that's okay.
+And I'm going to make a temporary line here and then I'm going to put your last thing, which I also remember.
+So then I feel like line 22, you had a specific project you were kind of in mind.
+You didn't really talk about it much, but I think that's kind of what...
+I heard that. Maybe I'm wrong.
+Yes. So I have a specific project in mind and I'm interested in
+doing multiplayer writing around both the white paper and the presentation for it.
+Yep.
+Okay. Thanks for that. I'm going to go ahead and close this out. I'm going to go ahead
+Okay.
+Thanks for that.
+Who wants to go next?
+Who wants to go next?
+I'll go.
+Thanks, Kyle.
+So Ray invited me to learn more about this, which I found interesting and exciting.
+My background is in technology since the 80s, so I've always worked with developers.
+And then in the 90s, I had a software publishing company, publishing games, utilities, lifestyle software.
+and then I had an interactive agency, and I've worked in recent years a lot for big
+technology companies and in between a lot of other stuff, FinTech, a lot of SaaS platform,
+and worked closely with developers most of my career.
+So anything that gets me to understand better the way that they work and to be able to work
+through more dynamically with them in those flows is interesting to me.
+When I was with Palo Alto Networks last year, I was working a lot on code to cloud marketing
+strategy.
+So, you know, GitHub is a big place where problems occur there.
+So Git is top of mind for me.
+And I'm currently working on a SaaS platform ag tech project within an agency.
+And so I'm working again with developers.
+So it just seems to make sense to me, along with the training I'm doing for
+chat GPT, I think this type of thinking aligns really well with learning,
+prompting, and all kinds of things, including learning to code,
+which is the next step in chat GPT.
+So I don't know how to summarize that more, but
+So there's a lot of things that align and are interesting to me about this.
+From that perspective.
+I especially noticed when I worked for these big tech companies, instead of directly for smaller startups where I would meet with the development team,
+which is often dozens of programmers, on how a product works or how a platform works.
+The bigger companies, you get really siloed.
+So anything that helps me better understand the developer side,
+I think, is really powerful.
+Cool.
+So line 25 through 29, does that kind of capture pretty well?
+Yes, thank you.
+Great.
+And I especially like what's on line 29 that you've got.
+I think I'm teaching people how to use Chat GPT.
+And one of the observations I've got
+is that working with Chat GPT is kind of a low impact way
+to learn how to think through how to explain something
+and how to ask people something better.
+You have a bot that's infinitely patient
+and reasonably conversational
+and you get a lot of practice.
+And, okay, I'm trying to communicate something.
+How can I break it down in a way
+that gets the response I want?
+And it's just a robot response
+and it's either makes you happy or sad
+that it's like, oh, well,
+I didn't ask the question very well
+It gave me an answer, a very interesting answer, but that's not the question I wanted.
+So I've learned that I ask questions much better.
+I had a doctor's appointment recently and I heard myself asking the questions after the session
+with the doctor, the questions I asked were very much informed by how well I have gotten,
+how much better I've gotten at asking questions and prompting, you know, people or bots.
+It's very interesting.
+And the other thing is, it's a,
+the other thing that I can,
+because I'm a developer and I know,
+I have a kind of a cheat code to what development is.
+It's pretty easy for me to go to chat2BT and get it to,
+it's actually really good at writing code.
+So I can go over and say, you know,
+write the code that does this,
+but I kind of know how to ask
+and I kind of know what to do with the code once it's done.
+So there's something where more people who will be using
+chat GPT and whatever comes afterwards,
+you kind of need the basics of how to code
+and how to work with code.
+Even if you don't really know how programming works,
+you kind of have to know what's reasonable
+and what you can ask and what you can't ask
+and things like that.
+So I really like that line 29, Kyle.
+By the way, while we're at learning about coding and stuff like that, I think it was
+Marvin Minsky back in the day.
+He worked a lot, or Simon Papert, maybe.
+They worked a lot on teaching.
+There's a couple parts of coding.
+One of them is boring learning of all the syntax and stuff like that.
+And that's kind of maybe the poster child often for coding.
+There's another thing which is breaking down problems into, you know, modules and being
+able to instruct like a turtle, a drawing turtle or something like that, how to get
+stuff done.
+Understanding how to algorithmize things is actually, I think, a literacy that we need
+more of.
+And ChatGPD opens up the ability to actually act on, you know, that kind of knowledge with
+a lot of force, a lot of capability. So, who's next? Butler, maybe?
+I'll go next. Sure. You want to go first?
+Yeah, I can go next. So, I'm tech savvy, but I'm not a coder and I'm not a developer, and
+I am less interested in this conversation and how this all gets done,
+then I've got some projects that want to use something like this maybe.
+So would that be appropriate to talk about?
+>> Yeah.
+>> I'm going to seriously resist getting into the tech conversations here.
+So let me just paste these in to the markdown.
+There's three classes of projects I'm looking at.
+They're going to just all go in at once, I guess.
+Yeah.
+That's real.
+Yeah.
+So one is co-writing, working with people
+on developing proposals for white papers together.
+We're doing that in Google Docs right now.
+What you all are talking about here is something better
+than Google Docs.
+Yes.
+That's number one.
+Number two, two books I'm trying to put together.
+One is a curated multi-author anthology.
+And the idea would be for people to post their chapters
+and then cross-comment on each other's chapters
+and possibly do that in the open,
+possibly behind a cloak to be revealed
+once it's at a certain level of knowledge.
+And the third is a book that I'm primary author of,
+but I'm thinking about doing it in the open,
+kind of serialized with comments and revisions
+within either tightly curated
+or wide open group of collaborators.
+So I'm curious about whether what's under discussion here
+provides appropriate platform for that.
+Participation by people who are not coders,
+who are just writers, thinkers, and want
+it as simple as possible in terms of workflows.
+Do not want to be able to look--
+folks who don't need to open the hood and look at the engine,
+but just get in the car and drive somewhere.
+Thanks, Gil.
+That's great.
+Can we expand GTPR?
+Yeah, sure.
+These are-- this one is Getting the Prices Right.
+This is about what I see as a fundamental mess
+of the climate and environmental story, which is that the markets
+lie.
+And we don't pay the real prices of things.
+And so I've got an outline for--
+it's like a 15-essay book that dives
+into the various aspects of that, both conceptually
+and policy and so forth.
+I'm ready for the next one.
+Excuse me, you kind of dropped out for me there.
+Yeah, tell me when you're ready for the next one.
+Next one, go for it.
+Yeah, so the SDSC is the structural defects
+of Capitalism, which is a hyphenated word.
+With a capital I, or--
+No, I don't think so.
+I think just like that.
+I mean, maybe this, maybe, yeah.
+I mean, yeah, let's just leave it as that for now.
+So, do you want the summary of the book
+or you want to just leave it?
+- No, that's good.
+As long as we kind of know it's a book
+and maybe I guess a little bit the size of it
+or something like that.
+- Don't know the size of it yet.
+I'm building the outline.
+- Book is close enough.
+If it's a blog post, that's one thing.
+- No, it's not a blog post, it's a book.
+And put book in quotes,
+'cause the question I keep asking myself
+whenever I think of these things is,
+like book in quotes, but what if it's not a book?
+- Yeah.
+Let me put a note kind of down here at line 35.
+And yeah, I wanted to also note that anybody can,
+with the link in the chat, you can get to this thing.
+You don't have to sign in and then these buttons on the upper left control the view.
+The left two have the editing view on the side here.
+Real quick, I wanted to take off on your book thing a little bit.
+Jerry Mikulski and I and some other folks are working on something called Neo Books.
+A number of people have talked about Wikibooks.
+Most recently, Jordan.
+Different people mean different things by Wikibooks.
+But anyway, Jerry's thought a fair amount about Neo-books
+and also has articulated, I think.
+So if you poke through his brain,
+you could probably find Neo-books.
+And then a Neo-book is probably something
+that might exist as an e-book,
+maybe even as a printed book.
+but it's probably also a website
+and it's probably also a set of presentations.
+It's probably also, you know, podcasts and videos
+and all kinds of things, right?
+So once you've got that,
+the curated information narrativized,
+then, you know, book is gonna mean something different
+than it did 50 years ago.
+And let me go, since we don't have too many people,
+I can kind of get into a little detail
+and go back over your points.
+For co-writing, this can be better than Google Docs.
+It can be worse.
+But it gets better and better the longer the piece is.
+So if you're writing a blog post,
+you might use HackMD for a blog post.
+You would not use Git.
+Markdown is actually always a great thing
+learn. It's used in a lot of places and it's good to know Markdown.
+Yeah, and I'm doing my work primarily in Obsidian.
+Yeah, so there you go.
+And I'm assuming for the moment that it's going to be Obsidian to Obsidian publish
+as the first layer, but who knows?
+Yeah, so there's a thing that I stuck in here. There's a great article called
+Writing Long Form Content with Obsidian on 54. There's a plugin now that kind of,
+It's a little, it makes Obsidian kind of like Scrivener Lite, and you write separate pages
+as chapters or whatever you want, and then there's a plugin, the long form plugin,
+that will output the whole thing for you and output it in PDF or, you know, different formats.
+I'm sorry, you put that in chat?
+It's on line 54 in this doc.
+Oh, got it. Thank you.
+And to make it easier to click a link if you want to, you use the right pane rather than
+trying to figure out how to copy and paste. Either way. So for co-writing, Gil, if you're
+using Obsidian already, you kind of know that it's a good tool for managing a lot of markdown
+files. A lot of, you know, it can replace a lot of Scrivener, for instance, as a writing tool.
+The thing that we're mixing in here, the idea that we want to mix in is the idea of using Git
+as well. And Git has a fair bit of overhead, a fair bit of friction to get started with,
+but then it is super productive once you kind of get going. So if you can get into that,
+you know, if you can get over the speed bump at the front, you start singing. And then
+And for your other things, for a book,
+getting the prices right would be a great thing
+to do with Git and Markdown,
+as long as all your other co-authors
+or almost all of your other co-authors
+are willing to get over that speed bump of let's use Git.
+- How big is the speed bump, Peter?
+- If you're using Obsidian already,
+there's a very nice plugin called Obsidian Git
+that hooks Obsidian up to Git.
+Let me show you because again, we've got some time here.
+- And if you can tell me again,
+the first thing, the other plugin that you mentioned
+that was the Scrivener Lite.
+Did you put that in your timer?
+- Yeah, line 54.
+Obsidian itself is kind of a Scrivener lite.
+And then the only thing it's kind of missing is output.
+And then so the long form plugin adds the output thing.
+Let me reshare my screen a little bit
+and show you Obsidian Git.
+[ Pause ]
+>> Yeah, the question for me is going
+to be how big is the speed bump?
+Because --
+>> Yeah.
+>> And some of these folks may just have an assistant that,
+you know, they give -- they deliver a text file
+and somebody else --
+>> Yeah.
+>> -- can find it for them.
+That may be --
+Yeah, it's kind of--
+well, yeah.
+Can you make that bigger by any chance?
+The text or the--
+Never mind, I just closed the chat, so it's better.
+Cool.
+This is Obsidian.
+This is a markdown page.
+This particular-- I think this is peterkaminski.wiki.
+Yeah.
+So sorry to kind of jump ahead, folks.
+But one of the things we use Obsidian for
+is kind of information management.
+Another thing is for collaborative writing.
+Another thing is to make websites.
+This one is actually kind of to make websites.
+Can I stop you for a second?
+Can you do collaborative writing in Obsidian?
+Does it support a multi-user access to a page?
+- It's a longer answer.
+- Okay, skip it for now, we'll get it another time.
+- Let me answer it real quick.
+Especially Bill Anderson and I,
+we've played with a lot of different ways to do this.
+And it turns out that you kind of want to,
+the short answer is yes,
+and the long answer is it kind of depends
+you want to do it and how like crazy making you mind it being. It turns out that Git is
+actually still a pretty good way to do collaborative writing.
+Or Obsidian Git.
+Yeah. And it doesn't matter actually if the other person is using Obsidian. They could be using
+Emacs or VS Code or whatever, but often it's Obsidian. My pattern is to do interactive sessions
+and things where you're collaborating right in the teeth of it on HackMD. It's easy to move
+files back and forth from HackMD to Obsidian. So my typical thing is to work cheek by jowl
+in HackMD always. And then when we break up over the course of the week, we're working together,
+then I would fall back to Git. For depending on who you're working with, Git might be a step too
+far kind of. So then it turns out that if you just use Obsidian Sync, or you can use, which is a paid
+service from the Obsidian, the fine folks at Obsidian. You can also use sync thing,
+which is very similar, it turns out. There's almost real-time syncing. So, if somebody
+was editing this page, if this was synced through Obsidian sync and someone else was
+editing it, I would see their edits come through like a few seconds later. We don't have a
+a way to negotiate through Obsidian Sync,
+we don't have a way to negotiate conflicts.
+So if I'm typing on one paragraph,
+somebody else is typing one paragraph,
+I think we're both gonna be sad at some point.
+And you start ending up with,
+Obsidian Sync I think is working with the whole file,
+it's not working with the lines of characters.
+HackMD works character by character,
+and even if you are both typing in the same place,
+you'll move apart from each other a little bit
+and it's fine, it works really well.
+So then the Git-based collaboration
+is even a little chunkier than that,
+than Obsidian Sync.
+And it turns out that you also need a side channel.
+You need to use Metamost or Slack or Discord
+or WhatsApp or Signal or something like that to say,
+"Hey, I'm gonna start working on this table of contents
+"and elements of great fiction, is that okay?"
+And the other person will also go, "Yeah, that's cool."
+And maybe remember to link to these other pages
+or something like that.
+You wanna synchronize what you're working on
+and you need a chat channel to do that.
+So then once you're using Git,
+this is the control panel for Git, Obsidian Git.
+It turns out that like 90% of the time
+you can just click this one button, actually two buttons.
+You click this button to pull changes from the cloud
+and you click this button.
+Yeah, you got pull and push.
+You kind of stay away from the push one.
+This is like a super push that does everything for you.
+So between that pull and the super push,
+you can kind of just fire and forget
+and not worry about it very much.
+In the context of this inquiry, the Markdown plus Git inquiry, I'm hoping and I think Ray's
+project will support it.
+There's another level of using Git where you're actually using -- you use separate branches
+for people working on separate things.
+And you can do fine grained commenting and things like that on particular versions of
+this.
+So, through the Git and GitHub magic, you can have multiple, like many, many versions
+potentially of this whole book and work together on it in a very fine grained way and accept
+some of the changes, but some of the changes for further discussion, reject some of the
+changes, all of that kind of stuff.
+That's what software developers do with their code
+all the time.
+And that's the super turbocharged version.
+And in this case, you're talking about Markdown plus Git?
+Yes.
+OK.
+With the speed bump.
+OK.
+So the first speed bump is, I guess,
+if you're just using Git for working together with people,
+It's kind of a wash whether you use Git or Obsidian Sync or SyncThing.
+If you're using Git, you can keep leveling up and get more sophisticated.
+You can get very sophisticated, very powerful collaboration.
+But it requires not only getting over that first speed bump, but then going up a bit
+of a learning curve.
+It's not as steep as it seems, I think, but it's also not very well documented and not
+very, the path isn't well trodden. So that's part of the Git plus Markdown project is to try to,
+you know, trod this path. That's, I think, not that big of a deal, but it feels like a big deal
+still. Okay. Thank you. That's very helpful. So I think, I think for my purposes, I'd probably
+start with the Markdown, with the, with the, with the Obsidian Git thing. Yeah. You might even...
+or mark down Obsidian and then get started there
+and see what we know about each other
+and what the workflow looks like
+and then talk to you about starting to work.
+- That sounds good.
+If you don't mind paying for Obsidian Git
+and you have to, every person working together
+needs Obsidian Git.
+And then each person can host five documents.
+Obsidian Git is a little bit easier place to start, I would say, because it's built
+into Obsidian.
+Obsidian Git is a third-party thing, and it carries a lot of baggage from Git into it
+that can be a little bit overwhelming.
+Good baggage or bad baggage?
+Mostly bad.
+Okay.
+So, Pete, you kept saying Obsidian Git, but I think you meant Obsidian Sync, about paying
+And only five documents?
+Obsidian Sync is paid, and each person can share five documents.
+Sorry if I mixed that up.
+Five documents or five vaults?
+Five vaults.
+You're entirely right.
+Yes.
+And Obsidian Sync is easier and a little bit less effective.
+Obsidian Git is a little bit more effective and a lot harder,
+but it also is a gateway to superpower
+and Obsidian Sync is not.
+- Obsidian Git's got a lot of users.
+- Yeah.
+While we're talking about Git clumsiness,
+I also wanted to point out down at line 85,
+I've got a link to a page of GUI clients for Git and actually let's look at one or two
+of those real quick.
+Let me show you command line Git actually.
+So first of all, it's command line.
+I'll make the command line a little bit bigger here.
+I guess I should have made it bigger
+and then made the window bigger.
+So you type things like get status.
+You can actually edit, I'm gonna open this.
+I could be using one of the beauties of Markdown and Obsidian and things like that is I can
+be well, I also have this open in Obsidian, but I'm going to go through here and maybe
+I'll even edit this page.
+So I'm going to open that with Typora and make a change here.
+Yeah, actually, I'm going to trash this.
+So it's like, whoops, I made a mistake.
+I won't publish this to the web.
+So this is kind of an example of me editing some stuff,
+maybe making a mistake.
+If I say get status now, it's like,
+hey dude, this has changed.
+So then I can say, what are the changes?
+Green is added, red is subtracted.
+So, you know, here's the thing I did there.
+This is where I screwed things up and kind of changed it.
+So this is what a developer,
+developers sometimes have a little fancier tool,
+but this is kind of a deal with developers.
+So then to deal with this,
+I can say things like I can check out, check for branches.
+I could get checkout dash B.
+I can put my changes on a branch.
+I can actually, anyway, you type things like this
+and you get the idea.
+Let's look at tower and I'll just type in
+And I'll just show you the screen cap here.
+Well, actually I'll show you two things.
+We'll click on pricing first.
+100 bucks per user per year.
+It's like, oh my, you know, oh my gosh.
+I think you might be able to get away with one user.
+This is even fancier than you probably need,
+but you can probably get away with 70 bucks a year.
+So Tower is like the Primo version.
+It also has Mac and Windows.
+There's a nice Mac one that doesn't have a Windows version.
+So you're not all using the same tool, which is a problem.
+But anyway, here's the red and green thing.
+Here's branches, instead of having to keep in your head
+what branches are and how they work and stuff like that,
+you get this beautiful picture of it.
+And if you kind of like poke around at the features here,
+it's got lots of fancy things for managing
+all the Git magic.
+And again, all that Git magic is superpower stuff.
+It's like you all of a sudden you get 5X productivity or 10X productivity.
+It's mind-blowingly cool.
+But it's not cheap.
+And either you pay money and use this GUI tool.
+And even this, it's not super intuitive for me to figure out what all these lines mean.
+It's kind of a difficult map to understand.
+Bill and I use this command line thing
+and keep that picture in our heads, actually.
+Ray?
+- Yes, so question about your comment
+about 5X or 10X productivity.
+Was that remark specific to writing code,
+or would you say that that applies
+for collaborative writing too?
+- You know, the funny thing is,
+I think it would actually be better
+with collaborative writing.
+- Wow.
+- I think
+with code, code is complex enough
+that you kind of get bogged down in little details
+and that's where the collaboration work goes.
+I think with writing, you could,
+you know, you could leverage the tools to
+like multiply your group intelligence
+in a way that doesn't happen too much in coding.
+- Yeah, Pete, thanks for that.
+My assumption now is that this stuff needs to be invisible
+to the contributors, but could be very helpful
+for the production team.
+- Yeah, that makes a lot of sense.
+And especially for your use cases,
+There's a nirvana where you've got a particular,
+a nirvana for me maybe.
+You've got a product or a project which is all writing,
+there's no tech involved.
+And each of your writers has enough
+patience and tolerance for uncomfortableness
+to go over the speed bump
+and then climb up the learning curve.
+And that may sound like a crazy thing for me to guess,
+but it happened all the time
+when computers were harder to use.
+My wife, for instance, is not a techie.
+She was using a command line.
+She was using a command line email program.
+So the thing that you do now with Twitter
+or with Outlook or something like that,
+she had to go through kind of the same level of clunkiness
+and weird speed bumps and learning curves
+just to be able to send email and things like that.
+It's not, we have a conflation that only technical people
+can learn how to do like these little fiddly computer things.
+I don't, I've seen that not to be true.
+Even this command line stuff, which I don't think,
+nowadays I'd probably use the GUI for the non-tech folks.
+But even as this, you know,
+there's just a few things you learn.
+You learn to type this, you learn to type that.
+You have a little cheat sheet.
+- I think I'm command line without lining indentations.
+I think everybody could get pretty quickly.
+- Yeah.
+Yeah.
+- So, all right.
+- And it's pretty rote stuff.
+You know, there's, you just go through your checklist
+of steps and you just do it.
+And it's, but it's not.
+So structural defects of capitalism you've got
+in the open with a large group of collaborators,
+you don't have the opportunity to train
+each of the collaborators up into like,
+oh, I'm using Git and GitHub pull requests
+and all that kind of stuff.
+You don't have that opportunity with the mass public.
+Those folks are not going to be the folks
+that can tolerate that.
+- Yeah, and the mass public might need something
+like a G-Docs type of commenting feature,
+but even that is too much for some humans.
+- Yep, yep.
+Having said that, there's another nirvana for everybody.
+GitHub enabled a kind of collaboration
+where you collaborate with people you don't know.
+So once you, kind of like Kylie,
+once you have that unlocked,
+once you know how to do a little bit of Git stuff,
+all of a sudden you can collaborate
+with many people you don't know and vice versa.
+Many people that you don't know can drop in on your project
+without even talking to you and improve it.
+And improve it in a way that's continually gated
+by whatever, you don't give them right access
+to the core thing.
+They have right access to their copy of the core thing
+and then they can say, hey, compare my core thing
+with your core thing and grab whatever you think
+an improvement. So that's another like you know another huge jump of superpower stuff that that
+we should be able to get to in text someday. Thank you. Yeah sure thing Gil. Butler do you want to go?
+Yeah sure. Just one last thing. I dropped in at line 38. I searched for Neo Books. There's a
+a German site called neobooks.com that
+appears to offer something.
+Google Translate won't translate it,
+so if one of you can figure out what it says,
+that might be worth a look for somebody.
+Cool, thank you.
+OK, yeah, so for me, I'm a software developer,
+so at least I fairly know how to use Git and GitHub
+or wake up collaboratively with other developers.
+So I got interested in this in order to learn more
+about multiplayer writing.
+And at the moment I'm learning technical writing.
+So I thought it would be a nice project
+to learn more about writing.
+Yeah, then last month, yeah.
+So last month I came across D.School,
+the collaborative work in progress.
+So they actually do almost the same thing.
+So I thought, then I found like most of the work
+that had already been done,
+much of it is session on the project
+and a lot has been written.
+So it was just like us trying to make a few changes
+when I got on course with the team,
+the guys that are leading it.
+So I thought maybe joining a project
+that's starting from scratch
+and then being able to build up from there
+would be something interesting.
+And then it would really help me
+in terms of learning how to write
+and then more so write in groups
+'cause last year, I did an RKB, that's Kennel.
+So Kennel Block 7, in case folks are not in Kennel.
+So we were writing things about decentralized finance
+And we did make amazing effort, but then I think we struggled
+a bit in terms of getting the goals that we had put down
+and then achieving them.
+So I thought, yeah, maybe doing this would be interesting
+and then help me learn more about collaborative writing.
+Yeah, thanks.
+Thanks, Butler.
+That's great.
+So I'm going to add kind of the last thing that you said.
+I want to learn how project management works
+with collaborative writing.
+As it happens, I've got a lot of experience,
+and some of the rest of us do, kind of in this group,
+about project management and collaborative writing
+and how to do those together.
+So that would be really cool to work on.
+Anybody else have got something for this?
+And if you do, you can keep adding.
+Let's talk, I'd kind of like to get pretty much done
+at the top of the hour.
+So we've got nine minutes left.
+Let's talk about-- sorry, let me figure out
+how to stop screen sharing here.
+Let's talk about whether or not we're going to meet up again
+and maybe think about how to get started
+on either a small project or a big project.
+I'm up for meeting again.
+It doesn't have to be at this time every week.
+We could either have like a get together session
+and kind of figure out what we're going to do
+and then maybe do some smaller groups,
+one, two or three people working on a project.
+We could meet every week, we could meet every other week.
+- So I'd like to do that.
+I'm most interested in actually experimenting
+with a few folks about trying to, you know,
+deal with this so-called speed bump,
+little activation energy.
+And I think I can help
+'cause I've had a lot of experience with that.
+- Yep.
+- And I think that would be something valuable
+because if we could learn how to help each other
+use these tools to collaborate around writing,
+we could then help other people do the same thing.
+- I'm interested in that.
+Oh, I'm sorry, Bill.
+- And I just think that would be a valuable contribution
+rather than just saying, oh, that's what developers do.
+It's like, just throw that out, you know?
+We're all human beings here and we got keyboards.
+So turn me loose.
+- Kyle?
+- Yeah, I was gonna say, I'm interested in that too.
+And that last item about collaborative writing
+and project management, boy, have I been in the midst of that.
+I mean, I have a lot of experience in project management
+in my past, but I don't usually do that now.
+I do more marketing strategy and writing.
+So when I've been in those workflows,
+it almost always ends up people write over one another
+in Google Docs, and nobody has the timing right.
+And then people pop in, like another example from Palo Alto,
+there could be--
+you never know who's going to pop in when you're
+trying to think and write.
+There might be a VP coming in because they
+have access or product marketing managers or product managers.
+And the PM and then other--
+the creative department who's proofing it.
+There's almost-- never smooth is what I can say.
+It's like almost every one of my projects
+got derailed many times for those reasons.
+And a lot of the work I would do would, you know,
+I'd have to get the old versions back.
+And I'd always just do something
+that's not very sustainable.
+Save down the copy I was working on
+just to make sure I had it.
+'Cause it's easier to reference that
+than to go back to different versions a lot of times.
+So I think that's a huge problem
+'cause my experience in these larger tech companies
+is that they're working so fast and furiously
+that they forget any protocols.
+They don't, and everybody copies Google Docs
+'cause they can't get in, so they'll make a new copy
+and invite people to it.
+And everything is now the web version, the browser version.
+So you end up working in like 100 tabs
+instead of having any desktop applications.
+So those are things that slowed me down tremendously
+and I think took down the productivity of teams
+that I was working on it were like 75 people
+where basically we'd work for months
+and just waste all that.
+You know, most of the work gets wasted.
+So, but you're being driven to work really fast.
+And they call it agile,
+but of course it's not agile at all.
+- Yeah.
+Those are great use case horror stories.
+(laughs)
+- It's in the trenches.
+- Yeah, yeah.
+So it looks like we've got kind of quorum to keep meeting.
+One quick question I have, we've got the community forum on
+Passionate People.
+I'm kind of moderately satisfied with it.
+And there's a cool thing where I can add more course material,
+pre-recorded video courses.
+And then that's easy to get to from the Passionate People
+community.
+As a forum, it's kind of clunky for me.
+And what's even more galling is it doesn't speak Markdown.
+So what do people think?
+Should we keep using the PathShifts People forum?
+Should we make a mailing list?
+Should we use-- there's a Mattermost server
+I run that--
+it's kind of like Slack, but that works really well.
+We need a way to coordinate offline.
+How do people feel about Passionate People, Community,
+Mattermost, mailing list, something else?
+- Well, I think that a mailing list is something
+that everyone will be familiar with, so it has that plus,
+but people sometimes get really a lot of emails
+and it would be noisy to use it for discussions,
+So Mattermost might work well for that.
+And the forum, it might still be good for announcements.
+I just don't know if it would be needed separately
+if there were another channel like a Mattermost
+or an email list.
+- That's well said, Ray.
+And along with email being kind of a,
+it can get kind of like a swamp.
+It's hard to find stuff in your email box.
+The other thing is it's not kind of real time.
+So a chat system like Mattermost is a lot more real time.
+And if we use a chat system,
+then we can practice collaborating.
+Thanks, Gil.
+we can practice collaborating, you know,
+semi-synchronously, which works really well
+with get and markdown.
+I'm gonna suggest that we go to Mattermost.
+Butler, Edwin, Kyle, does that sound okay?
+- Sure.
+- Yes. - Yeah.
+Yeah, sure, that sounds okay.
+- Awesome.
+Bill, I know you're gonna drop.
+- Yeah, I just wanna say one thing.
+So I would like this, I'm in for the time being here,
+you know, let's meet again and try and do something.
+I also said I'm willing to help people
+if they're one who don't know about Git
+because I know some things
+and I also faced my own breakdowns using it.
+So I think I might be able to be helpful
+in trying to help people get used to it.
+- Bill is super knowledgeable
+And he's kind of taking lead on trying to figure out
+this speed bump thing, how to get it usable for folks.
+He and I, both Bill and I have been working together
+in the massive wiki world,
+which is very similar to where we are now.
+In the massive wiki world,
+we're trying to figure out how to make it easier
+for people to join up and use it.
+So we've got some thinking
+and some stuff written down already
+on how to get through that.
+I will set up a Mattermost channel,
+and I will email that to the same people
+I emailed things to last night.
+So we'll probably pick up a few of the people
+that did make this call.
+And then let's figure out when to get together next.
+This is an okay time for me, but it's not best.
+So let's coordinate online, I guess,
+and we'll figure it out in the chat.
+Anything else?
+I can stay for a while if folks want to stay
+or we can kind of break up and just get onto Mattermost.
+We'll see, Bill.
+I can give a quick demo of Mattermost.
+Is everybody on CSE Mattermost already per chance
+or is this a new thing?
+- For me, it's a new thing.
+So I think it would be great for you to go through it.
+So I just see how it works in it.
+Yeah.
+- Great.
+The recording is gonna stop in a few minutes, I think,
+which is fine.
+It's not a problem at all,
+but for the people on the recording,
+if you missed the rest of this,
+just get in touch and we'll get you going.
+Okay, let me share my screen again.
+And you can, to start off with, I'll email out the links to all this stuff again, so
+don't feel like you have to.
+There's a server called chat.collecticencecommons.org.
+So a thing to know is there's -- you can see Mattermost on the web or you can see it in
+the desktop app.
+I'm not sure that you would see this right away.
+So, if you're in the web, you just go to chat.collectivesensecommons.org, you sign up.
+A thing to know is that if you get asked for a team, you use the team Agora, A-G-O-R-A.
+So let me switch over to what it looks like once you're in.
+It's pretty easy to get set up, you know, get an account, and it's free.
+So the desktop app looks like this.
+The desktop app and the web look exactly the same.
+So let me switch to a decent channel here.
+Where you start off first is a channel called Town Square.
+Over here are all my channels.
+If you're used to Slack, MatterVest is very much like Slack.
+So there's just a few things that are a little bit different,
+but pretty much the same.
+So everybody gets put into a channel called Town Square.
+And then when you start, you'll have very few channels
+over here.
+But you can go find a channel and search
+for different channels here and then join them, basically.
+I don't know.
+Maybe that's enough for now.
+I guess let me show you a few more things.
+There's a thing called threads.
+So if you see a little section like this,
+this means that there's a threaded reply to this message.
+And you click on that and you see over here,
+you can actually change between threaded mode
+and not threaded mode.
+It's called collapse reply threads.
+If I turn this setting off,
+What happens is it shows me all the messages just kind of in a row.
+And so you'll see that this is, you know, this is in reply to that,
+but now you can't see that it's part of a thread.
+You just see all the messages one after another.
+So depending on how you like it, if you wanted to see all the messages
+and not have to worry too much whether or not they're in a thread
+or not find out that they're in a thread,
+turn off collapsed reply threads.
+If you want to see the threading,
+then settings display collapse reply threads on.
+So then the flip side of that is you have to look
+for these little thread markers.
+Let me see if there's a couple of interesting,
+one of the channels that you might want to check out
+is Coffee Shop.
+We don't have a lot of threading.
+Another one is Tools and Technology.
+Any of the channels that have brackets and a word in front
+of them belong to a certain group,
+but you're welcome to join them.
+So OGM, when I was talking about NeoBooks,
+NeoBook is an OGM project.
+And so in the name of the channel, there's that OGM.
+And then it's about NeoBooks.
+And this is a good example of, for a lot of calls, if--
+sorry, a lot of channels are part of a project
+where you want to have meetings.
+Up at the top here, there's often a Zoom link
+for the weekly meeting.
+This is the time and the Zoom link.
+This is a pretty common thing to do.
+Any questions?
+Sorry, that was kind of a rushed, quick tour.
+- I think it's all right.
+Yeah, as you said, I think it's much like Slack
+and I know how to use Slack at least, so.
+- Yeah, it's very similar to Slack, yeah.
+- Yeah.
+Anybody else?
+No, I don't have a question right now.
+Just to thank you for the session.
+You're welcome.
+Thanks for coming.
