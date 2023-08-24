@@ -4,8 +4,8 @@
 
 - Thursday, August 17, 2023, 7am PDT (14:00 UTC) for 60 minutes
 - https://meet.jit.si/markdown-and-git-for-collaborative-writing
-- Pete's Deck: https://slides.com/pathshiftpeople/markdown-and-git-for-collaborative-writing-2023-08-17/fullscreen
-- Recording: https://youtu.be/p8eHBBvycac
+- Pete's Deck: <https://slides.com/pathshiftpeople/markdown-and-git-for-collaborative-writing-2023-08-17/fullscreen>
+- Recording: <https://youtu.be/p8eHBBvycac>
 
 Note: You can save this document at any point to your computer. Click the three-dot menu at the top right, and select Download > Markdown.
 
@@ -117,13 +117,13 @@ _volunteers can take session notes in this section of the page, or feel free to 
     - ProGit - cannonical ebook 
 
 ## GitHub Flow
-https://docs.github.com/en/get-started/quickstart/github-flow
+<https://docs.github.com/en/get-started/quickstart/github-flow>
 
  - simple & straightforward branching strategy
  - probably best choice to start
 
 ## Git-Flow - a successful Git branching model 
-https://nvie.com/posts/a-successful-git-branching-model/
+<https://nvie.com/posts/a-successful-git-branching-model/>
 - Has great set of diagrams 
 - Uses "Branches" 
 - We can borrow conceptual chunks to make small versions that are as complex as we need 
@@ -175,14 +175,14 @@ _add questions and comments below_
 > - Scribe: One person writes based on group discussions, conclusions, and notes.
 > - Hybrid: A blend of methods above or the partitioning of the document into sections written in one of the methods noted above. For example, the writing of the introduction and discussion sections using a Joint Writing method, but the rest of the work being written using the Partition Writing method. If no method has been chosen, pitch one to the facilitator of the team — while some groups get lucky and fall into success, picking a method can circumvent a variety of conflicts during the work. See further reading for more information on team writing approach classifications.
 
-https://zenodo.org/record/4633921  (WLA: great resource)
+<https://zenodo.org/record/4633921>  (WLA: great resource)
 
 ## Chat
 
 charles
 charles says:(what's "ai" ...) 
 charles says:
-https://docs.github.com/en/get-started/quickstart/git-cheatsheet
+<https://docs.github.com/en/get-started/quickstart/git-cheatsheet>
  
 charles says:"improving" 
 charles says:one would assume everything on github is scraped for openai ...?? 

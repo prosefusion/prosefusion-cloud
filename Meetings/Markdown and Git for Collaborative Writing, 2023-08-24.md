@@ -4,7 +4,7 @@
 
 - Thursday, August 24, 2023, 7am PDT (14:00 UTC) for 60 minutes
 - jitsi: https://meet.jit.si/markdown-and-git-for-collaborative-writing
-- recording: https://www.youtube.com/watch?v=wAAtlDTi3Qk
+- recording: <https://www.youtube.com/watch?v=wAAtlDTi3Qk>
 
 ## Notes
 
@@ -63,7 +63,7 @@ Is the Path Shift People community a good async collaboration / notification cha
 - other?
 
 Working answer: To keep things interactive, going to use Collective Sense Commons mattermost.
-https://chat.collectivesensecommons.org/
+<https://chat.collectivesensecommons.org/>
 
 ## Coming up with a project to work on together
 
