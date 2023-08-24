@@ -2,7 +2,7 @@
 
 ## Jitsi
 
-Our Jitsi room: https://meet.jit.si/markdown-and-git-for-collaborative-writing
+Our Jitsi room: <https://meet.jit.si/markdown-and-git-for-collaborative-writing>
 
 ## Meeting Notes
 
