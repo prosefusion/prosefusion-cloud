@@ -12,4 +12,4 @@ This folder contains notes on Git and Github use and usage. Notes here are consi
  - [[Windows New User Git and Github - Obsidian setup, 2021-06-20]]  
  - the entire "Massive Wiki Starter Guidebook" folder contains documentation that can be reused  
 
-
+[[Some primary Git and Github notions]]  
