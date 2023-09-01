@@ -2,7 +2,7 @@
 
 This folder contains notes on Git and Github use and usage. Notes here are considered resources for more accurate and useful documentation.
 
-**Nota Bene**: these documents are under revision. If you have suggestions, comments, questions, anything you want to say about them, please (1) add them to specific pages (add your initials to comments), (2) add comments, etc., to this page, or create a new page with your contributions.
+**Nota Bene**: these documents are under revision. If you have suggestions, comments, questions, anything you want to say about them, please (1) add them to specific pages (add your initials to comments), (2) add comments, etc., to this page, or (3) create a new page with your contributions.
 
 [[Working with Git and Obsidian]]  
 
