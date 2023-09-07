@@ -2,6 +2,10 @@
 
 _This page is maintained by hand. If you make interesting or important changes, log them here._
 
+## 2023-09-06
+
+- Reworded the front page ([[README]]) to put a little more focus on human coordination and the reason for it, and to de-emphasize the tools a bit.
+
 ## 2023-08-24
 
 - [[Meetings]] and first two meeting pages  
