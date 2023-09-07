@@ -1,6 +1,6 @@
 # Prose Fusion
 
-Prose Fusion is a project team learning and documenting how to do high-performance, team-based, collaborative writing. We use Markdown, Git, chat, and project management as our foundation.
+Prose Fusion is a project team exploring and documenting how to do high-performance, team-based, collaborative writing. To aid our human coordination, we use tools like Markdown, Git, chat, and project management.
 
 We have a chat channel on CSC Mattermost (free registration required): <https://chat.collectivesensecommons.org/agora/channels/prose-fusion>.
 
