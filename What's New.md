@@ -2,6 +2,10 @@
 
 _This page is maintained by hand. If you make interesting or important changes, log them here, in reverse chronological order._
 
+## 2023-09-10
+
+- [[Installing Git and GitHub CLI on Mac]]
+
 ## 2023-09-07
 
 - [[Prose Fusion, 2023-09-07]] -- meeting notes
