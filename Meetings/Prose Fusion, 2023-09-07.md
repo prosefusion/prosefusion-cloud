@@ -21,7 +21,7 @@ FAQ
     - how do I use GitHub, and all its various screens (profile, my teams, orgs, etc., etc.?
 - talk about Microsoft and GitHub
     - open source enclosure
-    - AI training from our private content (OpenAI)
+    - AI training from our private content (e.g. OpenAI)
     - Git forge options: Codeberg, sourcehut, GitLab, self-hosted Gitea or Gitolite, peer-to-peer Git
 
 ## Related Projects
