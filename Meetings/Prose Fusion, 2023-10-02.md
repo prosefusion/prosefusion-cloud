@@ -17,6 +17,14 @@
 
 - see in your timezone: https://tinyurl.com/2692d9ae
 
+Let's try Mondays. I'm going to do two meetings to start, to cover more timezones. Meetings will generally repeat each Monday at the same times (modulo the upcoming seasonal time change).  
+
+Don't feel like you have to attend both, just pick the best time for you.  
+
+It's also okay to join whenever during the meeting, don't worry if you can't be there when the meeting starts.  
+
+Note: The seasonal time change is coming up in a few weeks, and will cause schedule changes depending on your country and timezone. I apologize in advance for any inconvenience!
+
 ## Topics
 
 Current main goals:
