@@ -1,7 +1,7 @@
 # Prose Fusion, 2023-10-02
 
-previous meeting: [[Prose Fusion, 2023-09-11]]
-up: [[Meetings]]
+- previous meeting: [[Prose Fusion, 2023-09-11]]
+- up: [[Meetings]]
 
 ## Times and Zoom
 
