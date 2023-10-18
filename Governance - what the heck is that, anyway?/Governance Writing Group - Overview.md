@@ -17,3 +17,7 @@ Having fixed our [[Aim]], how do we get from [[Where We Are]] to [[Where We Are 
 Governance is a [[Core Function]] of [[The Body]] of Society. It is one of the primary Organ Systems of The Body that must be stacked up, aligned, and co-operated in order for a Union to move away from pain, suffering, and dysfunction, towards its Destiny. 
 
 It is one System, composed of Sub-Systems, and nested inside the Super-System of a Social Organism.
+
+
+-----
+[[govern-Definitions]]  
