@@ -26,7 +26,7 @@ New:
 
 ## Git File Management
 
-Referring to the diagrams in [[Oliver Steele's "My Git Workflow"]] and [[[[Git Workflow Diagram]]]].
+Referring to the diagrams in [[Oliver Steele's 'My Git Workflow']] and [[[[Git Workflow Diagram]]]].
 
 - **workspace** = my files I'm working on and making changes to
 - **commit** - a related set of changed files; done as one more-or-less atomic task
