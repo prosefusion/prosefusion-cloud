@@ -22,4 +22,5 @@ It is one System, composed of Sub-Systems, and nested inside the Super-System of
 -----
 (2023-10-19 WLA) some relevant resources and references:  
 [[govern-Definitions]]: definitions of the words "govern", "government", "governance". Posted as a potential reference for the aspects of governance that are discussed here.    
-[[Newton_1973_workgroupInOrg1Pager]]: key psychosocial notions about workgroups in organizations. Posted as a reference for discussions of personal and interpersonal aspects of group and community work.
+[[Newton_1973_workgroupInOrg1Pager]]: key psychosocial notions about workgroups in organizations. Posted as a reference for discussions of personal and interpersonal aspects of group and community work.  
+
