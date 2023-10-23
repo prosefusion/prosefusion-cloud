@@ -1,4 +1,4 @@
-# Instead of "git pull", if you know you don't want to keep any local changes
+# Instead of 'git pull', if you know you don't want to keep any local changes
 
 ## fast-forward (read more about this)
 

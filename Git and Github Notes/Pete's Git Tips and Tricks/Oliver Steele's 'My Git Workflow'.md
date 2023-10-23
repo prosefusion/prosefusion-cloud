@@ -1,4 +1,4 @@
-# Oliver Steele's "My Git Workflow"
+# Oliver Steele's 'My Git Workflow'
 
 https://blog.osteele.com/2008/05/my-git-workflow/
 
